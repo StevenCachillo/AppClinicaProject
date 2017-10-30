@@ -1,6 +1,12 @@
 <resources>
-    <string name="app_name">AppClinicaProject</string>
+    <string name="app_name">AppClinica</string>
+    <string name="title_citas">Citas</string>
+    <string name="title_servicios">Servicios</string>
+    <string name="title_campana">Campañas</string>
+    <string name="title_perfil">Perfil</string>
+    <string name="title_contactar">Contáctanos</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="action_settings">Settings</string>
 </resources>
