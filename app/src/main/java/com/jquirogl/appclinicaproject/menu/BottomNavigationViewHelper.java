@@ -1,4 +1,4 @@
-package com.jquirogl.appclinicaproject.Menu;
+package com.jquirogl.appclinicaproject.menu;
 
 
 import android.support.design.internal.BottomNavigationItemView;

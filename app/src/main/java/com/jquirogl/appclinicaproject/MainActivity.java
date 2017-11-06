@@ -8,7 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.jquirogl.appclinicaproject.Menu.BottomNavigationViewHelper;
+import com.jquirogl.appclinicaproject.menu.BottomNavigationViewHelper;
 
 public class MainActivity extends AppCompatActivity {
 

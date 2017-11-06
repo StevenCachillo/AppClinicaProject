@@ -9,4 +9,10 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="action_settings">Settings</string>
+
+    <string name="titulo_servicios">Emergencias</string>
+    <string name="sede_servicios">Disponible en</string>
+    <string name="dias_servicios">Sede Surco, La Molina</string>
+    <string name="mas_informacion">Mas información</string>
+    <string name="descripcion_servicio">Contamos con tópicos diferenciados, tanto para atención de casos pediátricos (9 boxes) como de adultos (18 tópicos). Ambos grupos de tópicos están también preparados para atender emergencias en traumatología, cirugía, nebulizaciones, hidratación y medicina de emergencias con atención las 24 horas.</string>
 </resources>

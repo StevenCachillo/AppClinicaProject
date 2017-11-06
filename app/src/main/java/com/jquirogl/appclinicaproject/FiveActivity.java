@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.jquirogl.appclinicaproject.Menu.BottomNavigationViewHelper;
+import com.jquirogl.appclinicaproject.menu.BottomNavigationViewHelper;
 
 public class FiveActivity extends AppCompatActivity {
 
